@@ -1,4 +1,4 @@
-package com.reborne.designpattern.adapterpattern;
+package com.reborne.designpatterns.adapterpattern;
 
 /*
  * Adapter pattern works as a bridge between two incompatible interfaces. This type

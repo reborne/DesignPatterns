@@ -1,4 +1,4 @@
-package com.reborne.designpattern.adapterpattern;
+package com.reborne.designpatterns.adapterpattern;
 
 public class AudioPlayer implements MediaPlayer {
 

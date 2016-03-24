@@ -1,4 +1,4 @@
-package com.reborne.designpattern.adapterpattern;
+package com.reborne.designpatterns.adapterpattern;
 
 public interface AdvancedMediaPlayer {
 	public void playVlc(String fileName);
