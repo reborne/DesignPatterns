@@ -1,4 +1,4 @@
-package com.reborne.designatterns.bridgepattern;
+package com.reborne.designpatterns.bridgepattern;
 
 public class Circle extends Shape{
 	
