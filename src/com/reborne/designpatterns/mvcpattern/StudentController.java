@@ -1,8 +1,6 @@
 package com.reborne.designpatterns.mvcpattern;
 
-/**
- * Created by Reborn on 8/31/2016.
- */
+
 public class StudentController {
 
     private Student model;
